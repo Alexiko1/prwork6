@@ -12,7 +12,7 @@ caption {
     font-family: annabelle, cursive;
     font-weight: bold;
     font-size: 1em;
-    padding: 10px; 
+    padding: 8px; 
     color: #F3CD26;
     text-shadow: 1px 1px 0 rgba(0,0,0,.3);
  }
@@ -34,7 +34,7 @@ caption {
   }
   td {
     font-size: 0.8em;
-    padding: 2px 5px;
+    padding: 2px 4px;
     border: 2px solid #A9E2CC;
   }
   .first {
@@ -54,4 +54,9 @@ caption {
     font-size: 0.7em;
     font-weight: bold;
     text-align: center;
+  }
+  p {
+    text-align: center;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 0.8em;
   }
